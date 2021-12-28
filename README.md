@@ -7,7 +7,7 @@ Built a model to predict whether each of the images on a Webpage is an Advertise
 
 # Objective: 
 Create a model for Identifying Advertisement in a Webpage
-# Steps and tasks:
+# Steps and Tasks:
 1. Exploratory Data Analysis
 2. Find a good predicting model for finding Advertisement in a Webpage
 
